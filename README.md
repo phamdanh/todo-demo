@@ -4,7 +4,6 @@ A TODO List Flutter project.
 This project is a Flutter application.
 
 ## Run Project
-- Extract pham_danh_todo.zip file
 - Open project by Android studio
 - Use a terminal to get dependencies libs from the root of the project by following command:
 	flutter pub get
